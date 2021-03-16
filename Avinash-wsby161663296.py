@@ -1,7 +1,4 @@
-'''assignment python
-   NAME:Avinash Reddy Nandikonda
-   id : WSBY16663296
-   COURSE: MBA (BA.AI.ML)'''
+
    
 from tkinter import Tk ,Label , Button ,BOTH ,Frame ,filedialog , messagebox
 import cv2 
